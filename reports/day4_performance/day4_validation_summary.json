@@ -1,0 +1,11 @@
+{
+  "fund_count": 40,
+  "daily_return_rows": 64280,
+  "missing_first_return_rows": 40,
+  "date_min": "2022-01-03",
+  "date_max": "2026-05-29",
+  "top_fund": "Mirae Asset Large Cap Fund - Regular - Growth",
+  "top_fund_score": 86.25,
+  "cagr_5y_available_funds": 0,
+  "benchmark_chart": "reports\\day4_performance\\benchmark_comparison_top5.png"
+}
